@@ -1,4 +1,4 @@
-# Alphabet Soup Funding Neural Network Deep-Learning Model
+# Organization Funding Deep Learning Model
 
 **Overview**
 
